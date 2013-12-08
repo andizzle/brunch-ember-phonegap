@@ -1,0 +1,31 @@
+{
+    "author": "Andy Zhang",
+    "name": "brunch-ember-phonegap",
+    "description": "A brunch skeleton for ember phonegap app.",
+    "version": "1.0.0",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andizzle/brunch-ember-phonegap.git"
+    },
+    "engines": {
+        "node": "~0.6.10 || 0.8 || 0.9"
+    },
+    "scripts": {
+        "start": "brunch watch --server",
+    },
+    "dependencies": {
+        "phonegap": "~3.0.0",
+        "javascript-brunch": "~1.7.0",
+        "css-brunch": "~1.7.0",
+        "uglify-js-brunch": "~1.7.0",
+        "clean-css-brunch": "~1.7.0",
+        "auto-reload-brunch": "~1.7.0",
+        "ember-handlebars-brunch": "~1.0.0",
+        "es6-module-transpiler-brunch": "~0.0.5"
+    },
+    "devDependencies": {
+        "karma": "~0.10.2",
+        "karma-qunit": "*"
+    }
+}

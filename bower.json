@@ -1,0 +1,14 @@
+{
+    "name": "bower-ember-phonegap",
+    "version": "0.0.1",
+    "directory": "bower_components",
+    "dependencies": {
+        "ember": "~1.0.0",
+        "ember-data-shim": "1.0.0-beta.3",
+        "ember-phonegap": "0.0.1",
+        "bootstrap-sass": "~3.0.0"
+    },
+    "devDependencies": {
+        "ember-mocha-adapter": "0.1.2"
+    }
+}
